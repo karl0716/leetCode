@@ -15,6 +15,5 @@ public class StackTest {
         int pop = arrayStack.pop();
         System.out.println(pop);
         arrayStack.list();
-
     }
 }
